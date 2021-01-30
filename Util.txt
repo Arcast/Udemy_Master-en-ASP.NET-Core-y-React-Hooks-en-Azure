@@ -1,0 +1,36 @@
+
+	=> Para ejecutar el API por la consola
+
+		-> dotnet run -p 'Nombre Api' 
+
+	=> Para Restaurar los paquetes del proyecto
+	
+		dotnet restore
+
+	=> Instalar paquete para que cree las tablas del identity
+
+		dotnet tool install --global dotnet-ef --version 3.1.1
+
+	=> Creando el archivo de la migracion
+
+		dotnet ef migrations add IdentityCoreInicial -p Persistencia/ -s WebApi/
+
+	=> Ejecutamos la migracion
+
+		dotnet watch run
+
+	=> Se instala la libreria Dapper con el fin para hacer el mapeo de sql a c#
+
+	=> Migracion
+		
+		dotnet ef migrations add AgregarColumnaFecha -p Persistencia/ -s WebApi/
+
+		dotnet watch run
+
+	=> Para trabajar con react
+		
+		=> npm install @material-ui/core
+		=> npm install @material-ui/styles
+		=> npm install @material-ui/icons
+		
+		https://material.io/resources/color/#!/?view.left=0&view.right=0

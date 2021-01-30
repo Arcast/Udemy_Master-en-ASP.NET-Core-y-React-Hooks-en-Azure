@@ -1,0 +1,15 @@
+D:\ARCAST\Proyecto Practica Master ASP Core\MasterASPCore_Udemy\Persistencia\bin\Debug\netcoreapp3.1\Persistencia.deps.json
+D:\ARCAST\Proyecto Practica Master ASP Core\MasterASPCore_Udemy\Persistencia\bin\Debug\netcoreapp3.1\Persistencia.runtimeconfig.json
+D:\ARCAST\Proyecto Practica Master ASP Core\MasterASPCore_Udemy\Persistencia\bin\Debug\netcoreapp3.1\Persistencia.runtimeconfig.dev.json
+D:\ARCAST\Proyecto Practica Master ASP Core\MasterASPCore_Udemy\Persistencia\bin\Debug\netcoreapp3.1\Persistencia.dll
+D:\ARCAST\Proyecto Practica Master ASP Core\MasterASPCore_Udemy\Persistencia\bin\Debug\netcoreapp3.1\Persistencia.pdb
+D:\ARCAST\Proyecto Practica Master ASP Core\MasterASPCore_Udemy\Persistencia\bin\Debug\netcoreapp3.1\Dominio.dll
+D:\ARCAST\Proyecto Practica Master ASP Core\MasterASPCore_Udemy\Persistencia\bin\Debug\netcoreapp3.1\Dominio.pdb
+D:\ARCAST\Proyecto Practica Master ASP Core\MasterASPCore_Udemy\Persistencia\obj\Debug\netcoreapp3.1\Persistencia.csprojAssemblyReference.cache
+D:\ARCAST\Proyecto Practica Master ASP Core\MasterASPCore_Udemy\Persistencia\obj\Debug\netcoreapp3.1\Persistencia.AssemblyInfoInputs.cache
+D:\ARCAST\Proyecto Practica Master ASP Core\MasterASPCore_Udemy\Persistencia\obj\Debug\netcoreapp3.1\Persistencia.AssemblyInfo.cs
+D:\ARCAST\Proyecto Practica Master ASP Core\MasterASPCore_Udemy\Persistencia\obj\Debug\netcoreapp3.1\Persistencia.csproj.CoreCompileInputs.cache
+D:\ARCAST\Proyecto Practica Master ASP Core\MasterASPCore_Udemy\Persistencia\obj\Debug\netcoreapp3.1\Persistencia.csproj.CopyComplete
+D:\ARCAST\Proyecto Practica Master ASP Core\MasterASPCore_Udemy\Persistencia\obj\Debug\netcoreapp3.1\Persistencia.dll
+D:\ARCAST\Proyecto Practica Master ASP Core\MasterASPCore_Udemy\Persistencia\obj\Debug\netcoreapp3.1\Persistencia.pdb
+D:\ARCAST\Proyecto Practica Master ASP Core\MasterASPCore_Udemy\Persistencia\obj\Debug\netcoreapp3.1\Persistencia.genruntimeconfig.cache
